@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(252, 217, 174);
+    font-family:monospace;
+}
+p{
+    font-size: 20px;
+}
+#header_div{
+    background-color: rgb(230, 155, 103);
+    color:brown;
+   
+}
+hr{
+    border: 3px solid brown;
+}
+.copy_right_footer{
+    width:100%;
+    text-shadow:5px 5px 5px rgb(0, 0, 0);
+    color:white;
+    background-color:rgb(229, 151, 61)
+}
+button{
+    height: 50px;
+    width:70px;
+    
+}
